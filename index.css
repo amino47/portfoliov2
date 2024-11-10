@@ -1,17 +1,3 @@
-.title {
-  font-size: 1.5em;
-  font-family: 'Roboto', sans-serif;
-  color: #1c1d1f;
-  text-align: center;
-}
-
-body {
-  font-family: 'Roboto', sans-serif;
-  background-color: #8d919d;
-  text-align: center;
-}
-.aboutme {
-  font-family: 'Roboto', sans-serif;
-  font-size: 1.2em;
-  color: #393c3e;
-}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
